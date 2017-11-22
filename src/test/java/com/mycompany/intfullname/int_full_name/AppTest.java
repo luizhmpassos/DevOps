@@ -1,6 +1,6 @@
 package com.mycompany.intfullname.int_full_name;
 
-import static org.junit.Assert.*;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
